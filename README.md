@@ -3,7 +3,6 @@
 
 **Here we are created fully working Block-Chain Application with ReactJs and Solidity. And we implemented the Alchemy for virtualization purposes. Finally we used ropsten for local testing and deployed on ropsten using hardhat**
 
-**Project Link** - ***https://alanbinu-crypto.web.app/***
 
 ## Tech We Used
 
